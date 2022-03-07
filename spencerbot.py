@@ -97,4 +97,4 @@ async def truthordare(ctx):
         rantd = random.choice(rantord)
         await ctx.send(rantd)
 
-client.run("ODcwMDM2OTc1MDg2ODg2OTUy.YQG7Ew.Bv4uODeyMrF7FiQDGRBEI2wUNeg")
+client.run("TOKEN")
